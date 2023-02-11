@@ -1,0 +1,7 @@
+Yellow #F6EE18
+Original oranges
+	#F9C349
+	#F68F18
+Black/Brown Gradient
+	#171A1C
+	#1D1811
